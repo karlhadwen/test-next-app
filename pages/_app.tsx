@@ -1,5 +1,5 @@
 export default function Home(): JSX.Element {
   return (
-    <p>Hello</p>
+    <p>Hello there, testing the workflow deployment for GitHub!</p>
   )
 }
